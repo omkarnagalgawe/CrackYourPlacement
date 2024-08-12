@@ -9,12 +9,14 @@
 | [0015-3sum](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -23,4 +25,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
