@@ -11,6 +11,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -46,4 +48,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
