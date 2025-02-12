@@ -14,6 +14,7 @@
 | [0283-move-zeroes](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/omkarnagalgawe/CrackYourPlacement/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
